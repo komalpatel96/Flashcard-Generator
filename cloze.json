@@ -1,0 +1,30 @@
+[
+	{
+	"fullText": "George Washington is the first president of United States",
+	"cloze": "George Washington"
+	},
+	{
+	"fullText": "Thomas Edison is the inventor of the light bulb",
+	"cloze": "Thomas Edison"
+	},
+	{
+	"fullText": "Steve Jobs is inventor of the iPhone",
+	"cloze": "Steve Jobs"
+	},
+	{
+	"fullText": "Henry Ford is credited for the first car to use engine that was not powered by water",
+	"cloze": "Henry Ford"
+	},
+	{
+	"fullText": "J. K. Rowling wrote the series world famous series Harry Potter",
+	"cloze": "Harry Potter"
+	},
+	{
+	"fullText": "Barack Obama is the first african american president",
+	"cloze": "Barack Obama"
+	},
+	{
+	"fullText": "Mark Zukerburg created Facebook",
+	"cloze": "Mark Zukerburg"
+	}
+]
